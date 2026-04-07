@@ -7,6 +7,7 @@ Este projeto consiste no desenvolvimento de um dashboard interativo em Power BI 
 A solução permite acompanhar indicadores estratégicos como faturamento, margem bruta e volume de vendas, além de comparar resultados com metas e identificar os principais fatores que impactam o desempenho comercial.
 
 O foco do projeto foi transformar dados operacionais em insights acionáveis, reduzindo a dependência de análises manuais e apoiando a tomada de decisão baseada em dados.
+
 ---
 
 ## 🎯 Contexto de negócio
