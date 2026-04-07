@@ -20,6 +20,7 @@ Apesar de possuírem dados de faturamento, margem e volume de vendas, esses dado
 	•	Quem são os principais responsáveis pelo desempenho comercial?
 
 A ausência de uma visão integrada dificulta a tomada de decisão estratégica e reduz a capacidade de reação a desvios de performance.
+
 ---
 
 
