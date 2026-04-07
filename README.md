@@ -48,7 +48,6 @@ A ausência de uma visão integrada dificulta a tomada de decisão estratégica 
 
 ---
 
-
 ## 🚀 Objetivo do projeto
 
 Desenvolver um dashboard interativo capaz de:
@@ -58,16 +57,6 @@ Desenvolver um dashboard interativo capaz de:
 * Identificar padrões e variações ao longo do tempo
 * Explorar fatores que impactam faturamento e margem
 * Apoiar a tomada de decisão baseada em dados
-
----
-
-## 📊 Principais insights
-
-* Alta concentração de faturamento e margem em poucos produtos (óleos, farinhas e fermentos), indicando risco de dependência e oportunidade de diversificação
-* Identificação de fornecedores com grande impacto nos resultados, permitindo negociações mais estratégicas
-* Destaque para vendedores com melhor performance, possibilitando replicação de boas práticas
-* Produtos com baixa contribuição de margem, indicando necessidade de revisão de preços ou portfólio
-* Sazonalidade nas vendas, com melhor desempenho no segundo semestre
 
 ---
 
@@ -214,6 +203,15 @@ assets/
 
 ![Comportamento](assets/img/02-visao-decomposicao.png)
 
+---
+
+## 📊 Principais insights
+
+* Alta concentração de faturamento e margem em poucos produtos (óleos, farinhas e fermentos), indicando risco de dependência e oportunidade de diversificação
+* Identificação de fornecedores com grande impacto nos resultados, permitindo negociações mais estratégicas
+* Destaque para vendedores com melhor performance, possibilitando replicação de boas práticas
+* Produtos com baixa contribuição de margem, indicando necessidade de revisão de preços ou portfólio
+* Sazonalidade nas vendas, com melhor desempenho no segundo semestre
 
 ---
 
