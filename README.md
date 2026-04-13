@@ -195,6 +195,9 @@ assets/
 
 ## 📸 Dashboard
 
+### Link do Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiMDVjNmQwNWYtNmUzMS00YWYwLTk3NzUtY2JkNzlkYTg1MWVjIiwidCI6Ijk4YjAyZTQ5LWU1NzEtNGZjYi1hODBjLTBiMTA3Y2E0YzdkMCJ9
+
 ### Visão geral da performance
 
 ![Visão Geral](assets/img/01-visao-performance.png)
